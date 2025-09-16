@@ -4,7 +4,6 @@ public class ForLoopDemo2 {
 	
 	public static void main(String[] args) {
 		
-		//asdasdasd
 		System.out.println("main started!!");
 		
 		for(int i=50; i<=70; i++)
